@@ -145,22 +145,3 @@ python eval.py \
 Our ReSaP framework achieves state-of-the-art performance on both RRSIS-D and RIS-LAD benchmarks.
 
 (Detailed quantitative comparison tables can be found in our paper.)
-
-## 📜 Citation
-
-If you find this work helpful for your research, please cite our paper:
-
-```bibtex
-
-@article{lv2025resap,
-  title={ReSaP: Reasoning-enhanced and Scale-aware Prompting for Referring Remote Sensing Image Segmentation},
-  author={Lv, Ning and Wang, Teng and Dang, Jisheng and Liu, Yichu and Wang, Bimei and Chua, Tat-Seng},
-  journal={Submitted to IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
-  year={2025}
-}
-```
-
-## 📧 Contact
-
-If you have any questions, please feel free to contact **Ning Lv** at `lvn2023@lzu.edu.cn`.
-> （注：文档部分内容可能由 AI 生成）
