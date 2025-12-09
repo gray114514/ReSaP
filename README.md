@@ -12,7 +12,7 @@ To address these challenges, we propose **ReSaP**, a novel framework that synerg
 
 2. **Scale-Aware Prompting:** A dynamic sampling mechanism that adapts prompt granularity to object scales, resolving the mismatch issues of static prompting methods.
 
-![Architecture](figures/inference.pdf)
+![Architecture](figures/inference.png)
 
 ## 🛠️ Environment Setup
 
